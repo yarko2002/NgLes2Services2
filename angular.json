@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "NgLes2Services2"
+    }
+  },
+  "defaultProject": "NgLes2Services2",
+  "cli": {
+    "analytics": "594b8d90-4417-49ec-9032-332361235d1a"
+  }
 }
